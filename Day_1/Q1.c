@@ -22,3 +22,5 @@ main()
     ns = bs+da+hra+allow-pf;
     printf("%d",(int)ns);
 }
+
+printf("hello world");
